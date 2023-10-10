@@ -1,4 +1,4 @@
-# MagicStory
+# AgriConnect
 
 ## How to install?
 
@@ -9,12 +9,12 @@
 # About
 
 - Saves messages into a Supabase db
-- Will generate an interactive story for children where the children can "choose their own adventure"
+- Acts as an agriculture expert that answers questions
 - Has the `/reset` command to start over
 
 # Telegram Framework
 
 Can work as a framework for using Telegram bots as an interface for Gen-AI projects
 
-- Has API calls to Anthropic and Replicate
-- Can accept voice messages, as it will transcribe it using whisper
+- Has API calls to Anthropic
+- Can accept voice messages, as it will transcribe it using OpenAI Whisper
